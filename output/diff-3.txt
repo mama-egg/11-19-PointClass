@@ -6,17 +6,11 @@
 < p2 is (4, 3)
 ---
 > p2 is (4,3)
-5,6c5,6
-< distance between p1 & p2 = 3.1622776601683795
+6c6
 < p1 is (18, 8)
 ---
-> distance between p1 & p2 = 2.6457513110645907
 > p1 is (18,8)
 8c8
 < p2 is (5, 10)
 ---
 > p2 is (5,10)
-10c10
-< distance between p1 & p2 = 13.152946437965905
----
-> distance between p1 & p2 = 12.84523257866513
